@@ -1,4 +1,4 @@
-From jenkins/jenkins:2.289.3-centos7
+From jenkins/jenkins:2.306-centos7
 USER root
 RUN yum-config-manager --add-repo https://download.docker.com/linux/centos/docker-ce.repo \
     && yum install -y yum-utils device-mapper-persistent-data lvm2 docker-ce-cli \

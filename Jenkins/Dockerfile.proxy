@@ -1,4 +1,4 @@
-From jenkins/jenkins:2.289.3-centos7
+From jenkins/jenkins:2.306-centos7
 USER root
 
 # Proxy
